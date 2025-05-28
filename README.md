@@ -54,10 +54,8 @@ TestApp.sln
 
 1. Клонировать репозиторий:
 
-   ```bash
-   git clone 
-```
-
+```bash
+   git clone  https://github.com/kapaindastris/TestApp.git
 ```
 2. Открыть `TestApp.sln` в Visual Studio 2019/2022 или более поздней.
 3. Собрать проект (Build → Build Solution).
