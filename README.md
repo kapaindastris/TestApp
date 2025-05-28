@@ -56,7 +56,7 @@ TestApp.sln
 
    ```bash
    git clone 
-   ```
+```
 
 ```
 2. Открыть `TestApp.sln` в Visual Studio 2019/2022 или более поздней.
