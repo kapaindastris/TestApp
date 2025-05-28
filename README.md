@@ -86,4 +86,3 @@ TestApp.sln
 ## 📄 Лицензия
 
 MIT License 
-```
