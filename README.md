@@ -43,9 +43,8 @@ TestApp.sln
     ├── Commands
     │   └── RelayCommand.cs   – универсальная реализация ICommand
     ├── Converters
-    │   ├── InverseBooleanToVisibilityConverter.cs
-    │   └── EqualityConverter.cs
-    |_
+        ├── InverseBooleanToVisibilityConverter.cs
+        └── EqualityConverter.cs
 ```
 
 ---
