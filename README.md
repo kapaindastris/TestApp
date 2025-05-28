@@ -88,6 +88,5 @@ TestApp.sln
 
 ## 📄 Лицензия
 
-MIT License • Свобода использования и изменения[:](https://opensource.org/licenses/MIT)
-
+MIT License 
 ```
